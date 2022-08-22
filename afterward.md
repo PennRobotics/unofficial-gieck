@@ -1,0 +1,5 @@
+- Unofficial Hibbeler
+-  "   "     Cengal
+-  "   "     Munson, Okiishi, Huebsch, Rothmayer
+-  "   "     Sedra, Smith
+- etc.
