@@ -1,0 +1,5 @@
+- [ ] Take quiz scans from various academic sources
+- [ ] Create models / simulations for each recurring question type
+- [ ] Create calculator backend
+- [ ] Create viewing frontend
+- [ ] Crossplatform, publish, refine, extend
